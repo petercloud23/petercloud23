@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to build a better future through education and technology
 - 💞️ I’m looking to collaborate with the Alura Start team to achieve this goal
   
-**Follow the revolution:**
+**Immerse yourself in technology:**
 
 https://www.alurastart.com.br/
 
