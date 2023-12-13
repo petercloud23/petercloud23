@@ -3,8 +3,6 @@
 👀 I’m interested in education and technology
 
 🌱 I’m currently learning how to build a better future through education and technology
-
-💞️ I’m looking to collaborate with my team to achieve this goal
   
 I code and I'm learning more:
 
