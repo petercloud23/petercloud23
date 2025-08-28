@@ -14,7 +14,9 @@ I code and I'm learning more:
 - Ladder;
 - C (especially for microcontrollers);
 - Arduino
+- MakeCode
 - Chatgpt prompts
+- SCRATCH
 
 
 <!---
