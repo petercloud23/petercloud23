@@ -15,6 +15,7 @@ I code and I'm learning more:
 - C (especially for microcontrollers);
 - Arduino
 - MakeCode
+- Power Apps
 - Chatgpt prompts
 - SCRATCH
 
