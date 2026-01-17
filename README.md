@@ -10,13 +10,15 @@ I code and I'm learning more:
 - Java;
 - Html/Css/JS;
 - Python;
+- SQL;
 - Scratch;
 - Ladder;
 - C (especially for microcontrollers);
-- Arduino
-- MakeCode
-- Power Apps
-- Chatgpt prompts
+- Arduino;
+- MakeCode;
+- Power Apps;
+- AI Agents;
+- Prompt Engineering;
 - SCRATCH
 
 
